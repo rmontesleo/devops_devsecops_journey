@@ -11,9 +11,8 @@ echo "Do 3 prompts that must be related"
 echo "Some sample could be"
 echo "prompt1: Give me the full filmography from Bill Murray, for each movie get title, director, year, imdb and summary"
 echo "prompt2: Which is consider his best movie?"
-echo "prompt3: Tell me, with whom, with whom and with which actors he worked the most, and when were his most active years?"
+echo "prompt3: Tell me which directors and actors he has worked with most often."
 echo "Choose your own prompts.  Good luck."
-read "Press enter to continue..."
 
 # Set variables for the script
 endpoint="https://api.openai.com/v1/responses"
