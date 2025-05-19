@@ -14,3 +14,4 @@ LICENSE
 Dockerfile
 docker-compose.yaml
 .dockerignore
+./docker
